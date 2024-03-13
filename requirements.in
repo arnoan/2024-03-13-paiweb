@@ -1,9 +1,7 @@
 langchain
 langchain_openai
 chromadb
+tiktoken
 
 jupyter
-tiktoken
-chroma
-
 python-dotenv
